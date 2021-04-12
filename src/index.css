@@ -1,0 +1,16 @@
+.wrapper {
+    text-align: center;
+}
+
+.btn {
+    margin: auto;
+    position: static;
+    margin-left: 10px;
+    margin-bottom: 100px;
+}
+
+.btnReturn{
+    margin: auto;
+    position: static;
+    
+}
